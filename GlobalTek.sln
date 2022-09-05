@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalTek", "GlobalTek\GlobalTek.csproj", "{39837495-AD0C-4EB0-9AA5-0F75F3F5C17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39837495-AD0C-4EB0-9AA5-0F75F3F5C17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39837495-AD0C-4EB0-9AA5-0F75F3F5C17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39837495-AD0C-4EB0-9AA5-0F75F3F5C17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39837495-AD0C-4EB0-9AA5-0F75F3F5C17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3CF8A0-D74B-49BE-94E0-7B03B62B4051}
+	EndGlobalSection
+EndGlobal
